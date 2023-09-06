@@ -1,0 +1,5 @@
+api\test\ReqresTest.class
+api\payload\User.class
+api\utilites\ExtentReportManager.class
+api\endpoints\Routes.class
+api\endpoints\ReqresEndOintsa.class
